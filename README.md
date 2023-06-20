@@ -1,3 +1,9 @@
+
+
+**THIS IS A COPY OF THE ORIGINAL REPOSITORY FOR THE PURPOSE OF FURTHER DEVELOPMENT IN THE SIMILAR DIRECTION**
+ORIGINAL REPOSITORY ADDRESS: https://github.com/mroeck/Embodied-Carbon-of-European-Buildings-Database
+
+==============
 Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB)
 ==============
 
